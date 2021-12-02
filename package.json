@@ -1,0 +1,16 @@
+{
+  "name": "ts-blockchain",
+  "version": "1.0.0",
+  "description": "Learning ts by making a blockchain.",
+  "main": "index.js",
+  "repository": "https://github.com/shakilahmedatik/ts-blockchain",
+  "author": "Shakil Ahmed Atik",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
